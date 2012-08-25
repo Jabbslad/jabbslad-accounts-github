@@ -17,3 +17,7 @@ This login service depends on the bleeding edge changes within the Meteor Auth b
 3. Call `Meteor.loginWithGithub();`
 
 *Note:* I have not forked the 'accounts-ui' smart package due to its bleeding edge nature so you will either need to create your own service button or create update it yourself.
+
+### Credits
+
+Shamelessly based upon [@possibilities](https://github.com/possibilities) Google OAuth2 login service
