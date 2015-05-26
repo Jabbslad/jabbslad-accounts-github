@@ -1,4 +1,6 @@
-## accounts-github
+## jabbslad-accounts-github
+
+**NOTE:** This service is **DEPRECATED** Please refer to [https://github.com/meteor/meteor/tree/devel/packages/accounts-github](https://github.com/meteor/meteor/tree/devel/packages/accounts-github) for the official Meteor accounts-github package.
 
 Github OAuth2 login service for use with Meteor Auth
 
